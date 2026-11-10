@@ -16,6 +16,13 @@
   <img src="assets/screenshot-play.png" alt="Gustwing — gameplay" width="820">
 </p>
 
+## More screenshots
+
+<table>
+<tr><td width="50%"><img src="assets/screenshot-atlas.png" alt="The atlas: four skies to fly"><br><sub>The atlas: four skies to fly</sub></td><td width="50%"><img src="assets/screenshot-stages.png" alt="Choosing a course"><br><sub>Choosing a course</sub></td></tr>
+<tr><td width="50%"><img src="assets/screenshot-play-classic.png" alt="Classic mode: one tap, no mercy"><br><sub>Classic mode: one tap, no mercy</sub></td><td width="50%"><img src="assets/screenshot-results-camp.png" alt="After a crash: stars, coins and missions"><br><sub>After a crash: stars, coins and missions</sub></td></tr>
+</table>
+
 ## Controls
 
 | Keys | Action |
